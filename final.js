@@ -25,4 +25,4 @@ var lastDay = 31;
 for (var i = 1; i <= lastDay; i++) {
     i % 3 !== 0 ? console.log(i + " - rest") : console.log(i + " - medicine");
 } 
-//Completed
+//
